@@ -7,8 +7,8 @@ import plotly.graph_objects as go
 from datetime import datetime
 
 # API Configuration
-API_URL = "http://127.0.0.1:8000/analyze"
-AUDIO_URL = "http://127.0.0.1:8000/audio"
+API_URL = "https://news-summarization-and-text-to-speech-cok7.onrender.com/"
+
 
 # Theme configuration
 theme = gr.themes.Soft(
