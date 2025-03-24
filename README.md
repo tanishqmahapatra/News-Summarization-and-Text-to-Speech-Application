@@ -77,7 +77,7 @@ GET /audio
 ## Deployment
 ### Hugging Face Spaces
 The application is deployed on Hugging Face Spaces. Access it here:
-👉 **[Live Demo](https://huggingface.co/spaces/your-space-name)**
+👉 **[Live Demo]([https://huggingface.co/spaces/your-space-name](https://huggingface.co/spaces/tanishq0907/News_Summarization))**
 
 ---
 ## Model Details
